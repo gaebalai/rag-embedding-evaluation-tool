@@ -19,7 +19,7 @@ RAG(Retrieval-Augmented Generation)에서 이용하는 임베디드 모델의 �
 
 1.  **Colab에서 열기:** 아래 버튼을 클릭합니다.
 
-    [![Open In Colab](https://colab.research.google.com/drive/1iOokg0eyb7ud2gS66ILxDJU1Mh6LTuIo?usp=sharing)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iOokg0eyb7ud2gS66ILxDJU1Mh6LTuIo?usp=sharing)
 
 2.  **중요:** 이 방법은 임시 노트북을 엽니다. 작업 내용을 저장하려면 **반드시** 자신의 Google 드라이브에 사본을 저장하십시오(`파일` >`드라이브에 사본 저장`).
 3.  **API 키 설정:** Colab의 '시크릿' 기능(왼쪽의 `🔑` 아이콘)에서 `OPENAI_API_KEY`라는 이름으로 OpenAI API 키를 등록합니다.
