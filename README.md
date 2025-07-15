@@ -22,7 +22,7 @@ RAG(Retrieval-Augmented Generation)에서 이용하는 임베디드 모델의 �
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iOokg0eyb7ud2gS66ILxDJU1Mh6LTuIo?usp=sharing)
 
 2.  **중요:** 이 방법은 임시 노트북을 엽니다. 작업 내용을 저장하려면 **반드시** 자신의 Google 드라이브에 사본을 저장하십시오(`파일` >`드라이브에 사본 저장`).
-3.  **API 키 설정:** Colab의 '시크릿' 기능(왼쪽의 `🔑` 아이콘)에서 `OPENAI_API_KEY`라는 이름으로 OpenAI API 키를 등록합니다.
+3.  **API 키 설정:** Colab의 '보안 비밀' 기능(왼쪽의 `🔑` 아이콘)에서 `OPENAI_API_KEY`라는 이름으로 OpenAI API 키를 등록합니다.
 4.  **실행 및 평가:** 셀을 실행하고 파일을 업로드하여 평가를 시작합니다.
 
 ### 방법 2: 사용자 정의 및 사용(권장)
@@ -31,7 +31,7 @@ RAG(Retrieval-Augmented Generation)에서 이용하는 임베디드 모델의 �
 1.  **다운로드:** 이 리포지토리에서 노트북 파일(`Your-Notebook-File.ipynb`)을 다운로드합니다.
 2.  **업로드:** 다운로드한 파일을 자신의 Google 드라이브에 업로드합니다.
 3.  **드라이브에서 열기:** Google 드라이브에서 노트북을 엽니다. 이렇게 하면 변경한 내용이 모두 자동으로 저장됩니다.
-4.  **API 키 설정:** Colab의 '시크릿' 기능에서 `OPENAI_API_KEY`라는 이름으로 OpenAI API 키를 등록합니다.
+4.  **API 키 설정:** Colab의 '보안 비밀' 기능에서 `OPENAI_API_KEY`라는 이름으로 OpenAI API 키를 등록합니다.
 5.  ** 실행 및 사용자 정의: ** 셀을 실행하고 프로젝트에 맞게 자유롭게 코드를 개조해보십시오!
 
 ## 📄 라이센스
